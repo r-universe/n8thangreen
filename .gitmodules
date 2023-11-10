@@ -5,3 +5,7 @@
 [submodule "BCEA"]
 	path = BCEA
 	url = https://github.com/n8thangreen/bcea
+[submodule "voi"]
+	path = voi
+	url = https://github.com/chjackson/voi
+	registered = false
