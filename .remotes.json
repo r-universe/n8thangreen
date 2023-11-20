@@ -1,5 +1,11 @@
 [
   {
+    "package": "plotrix",
+    "url": "https://github.com/plotrix/plotrix",
+    "via": ["BCEA"],
+    "from": "BCEA"
+  },
+  {
     "package": "voi",
     "url": "https://github.com/chjackson/voi",
     "via": ["BCEA"],
