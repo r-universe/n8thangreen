@@ -5,11 +5,3 @@
 [submodule "BCEA"]
 	path = BCEA
 	url = https://github.com/n8thangreen/bcea
-[submodule "plotrix"]
-	path = plotrix
-	url = https://github.com/plotrix/plotrix
-	registered = false
-[submodule "voi"]
-	path = voi
-	url = https://github.com/chjackson/voi
-	registered = false
