@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/n8thangreen/n8thangreen.r-universe.dev
 	branch = HEAD
-[submodule "BCEA"]
-	path = BCEA
-	url = https://github.com/n8thangreen/bcea
+[submodule "NMA"]
+	path = NMA
+	url = https://github.com/ICON-in-R/NMA
+[submodule "blendR"]
+	path = blendR
+	url = https://github.com/StatisticsHealthEconomics/blendR
+[submodule "multimcm"]
+	path = multimcm
+	url = https://github.com/StatisticsHealthEconomics/multimcm
