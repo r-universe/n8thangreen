@@ -4,10 +4,13 @@
 	branch = HEAD
 [submodule "NMA"]
 	path = NMA
-	url = https://github.com/ICON-in-R/NMA
+	url = https://github.com/icon-in-r/NMA
 [submodule "blendR"]
 	path = blendR
-	url = https://github.com/StatisticsHealthEconomics/blendR
+	url = https://github.com/statisticshealtheconomics/blendR
 [submodule "multimcm"]
 	path = multimcm
-	url = https://github.com/StatisticsHealthEconomics/multimcm
+	url = https://github.com/statisticshealtheconomics/multimcm
+[submodule "simcovariates"]
+	path = simcovariates
+	url = https://github.com/n8thangreen/simcovariates
