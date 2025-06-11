@@ -5,9 +5,6 @@
 [submodule "NMA"]
 	path = NMA
 	url = https://github.com/icon-in-r/NMA
-[submodule "blendR"]
-	path = blendR
-	url = https://github.com/statisticshealtheconomics/blendR
 [submodule "multimcm"]
 	path = multimcm
 	url = https://github.com/statisticshealtheconomics/multimcm
